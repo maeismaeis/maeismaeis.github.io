@@ -125,7 +125,7 @@ If you have any questions, please contact us at: muyao@connect.hku.hk.
     <div class="grid-item">
         <figure>
         <img src="assets\img\speakers\huazhe-xu.jpg" width="200" />
-        <figcaption><b><a href="http://hxu.rocks/">Huazhe Xu</a></b><br>Tsinghua University</figcaption>
+        <figcaption><b><a href="http://hxu.rocks/">Huazhe Xu</a></b><br>Tsinghua University, China</figcaption>
         </figure>
     </div>
     <div class="grid-item">
