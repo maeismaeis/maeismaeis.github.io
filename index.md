@@ -29,6 +29,9 @@ This workshop will benefit the robot learning community by highlighting cutting-
     <img src="assets/img/banner.jpg">
 </div>
 
+
+<div style="height: 20px;"></div>
+
 **Keywords specific to the event**
 
 Robotic Policy Learning, Data Flywheel, Policy Generalization, Continuous Learning
