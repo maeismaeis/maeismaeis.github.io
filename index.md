@@ -109,6 +109,18 @@ If you have any questions, please contact us at: muyao@connect.hku.hk.
 <div class="grid">
     <div class="grid-item">
         <figure>
+        <img src="assets\img\organizers\Masayoshi-Tomizuka.jpg" width="200"/>
+        <figcaption><b><a href="https://scholar.google.com/citations?hl=en&user=8m8taGEAAAAJ">Masayoshi Tomizuka</a></b><br>The University of California, Berkeley</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets\img\organizers\Mac-Schwager.jpg" width="200"/>
+        <figcaption><b><a href="http://web.stanford.edu/~schwager/">Mac Schwager</a></b><br>Stanford University</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
         <img src="assets/img/speakers/hao_su.jpg" width="200"/>
         <figcaption><b><a href="https://haosu-robotics.github.io/">Hao Su</a></b><br>North Carolina State University, USA</figcaption>
         </figure>
@@ -172,18 +184,6 @@ If you have any questions, please contact us at: muyao@connect.hku.hk.
 
 
 <div class="grid">
-    <div class="grid-item">
-        <figure>
-        <img src="assets\img\organizers\Masayoshi-Tomizuka.jpg" width="200"/>
-        <figcaption><b><a href="https://scholar.google.com/citations?hl=en&user=8m8taGEAAAAJ">Masayoshi Tomizuka</a></b><br>The University of California, Berkeley</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets\img\organizers\Mac-Schwager.jpg" width="200"/>
-        <figcaption><b><a href="http://web.stanford.edu/~schwager/">Mac Schwager</a></b><br>Stanford University</figcaption>
-        </figure>
-    </div>
     <div class="grid-item">
         <figure>
         <img src="assets\img\organizers\ping-luo.jpg" width="200"/>
