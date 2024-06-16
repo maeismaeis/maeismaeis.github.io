@@ -44,30 +44,30 @@ Robotic Policy Learning, Data Flywheel, Policy Generalization, Continuous Learni
 
 ### Call for papers
 
-####Submission Topics####
+#### Submission Topics ####
 
-##### Foundation Models in Robotics
+**Foundation Models in Robotics**
 Exploring the adaptation and implementation of foundation models to enhance robotic perception, control, and autonomy.
 
-##### Data Generation and Collection for Robotic Learning
+**Data Generation and Collection for Robotic Learning**
 Discussing methods for automatic data generation and large-scale data collection strategies that support advanced learning algorithms in robotics.
 
-##### Reinforcement and Imitation Learning for Physical Robot Control
+**Reinforcement and Imitation Learning for Physical Robot Control**
 Detailing the use of reinforcement and imitation learning strategies for effective physical control of robots, highlighting successes, challenges, and lessons learned.
 
-##### Data Flywheel Mechanisms in Robotics
+**Data Flywheel Mechanisms in Robotics**
 - **Case Studies:** Demonstrating the impact of data flywheels on autonomous robotic systems.
 - **Novel Architectures:** Proposing new architectures for data accumulation and utilization in robotic learning.
 
-##### Continuous Learning in Robotics
+**Continuous Learning in Robotics**
 - **Techniques and Algorithms:** Papers detailing innovative algorithms and techniques for continuous learning in robots.
 - **Challenges and Solutions:** Discussing the main challenges in long-term deployment and solutions to maintain stability and performance.
 
-##### Scalability of Data-Driven Approaches
+**Scalability of Data-Driven Approaches**
 - **Cross-Environment Studies:** Examining the scalability of data-driven robotic systems across diverse environments.
 - **Comparative Analyses:** Comparing data-driven strategies in different scales of robotic applications, from small to large-scale systems.
 
-##### Future Directions in Robotic Policy Learning
+**Future Directions in Robotic Policy Learning**
 - **Visionary Predictions:** Papers predicting future trends and identifying upcoming challenges in data-driven robotic policy learning.
 - **Innovative Frameworks:** Proposing new frameworks or models that could drive the next generation of robotic systems.
 
