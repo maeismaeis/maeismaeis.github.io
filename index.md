@@ -44,9 +44,9 @@ Robotic Policy Learning, Data Flywheel, Policy Generalization, Continuous Learni
 
 
 
-### Call for Papers
+## Call for Papers
 
-#### Submission Topics
+### Submission Topics
 
 **Foundation Models in Robotics:**
 - Exploring the adaptation and implementation of foundation models to enhance robotic perception, control, and autonomy.
@@ -79,7 +79,7 @@ Robotic Policy Learning, Data Flywheel, Policy Generalization, Continuous Learni
 
 ...
 
-**Important Notes**
+### Important Notes
 
 Please submit your full papers according to the following guidelines:
 - **Format:** All papers must be formatted according to CORL template.
@@ -87,13 +87,13 @@ Please submit your full papers according to the following guidelines:
 - **Submission Portal:** Submit your papers through Openreview System.
 
 
-**Contact**
+###  Contact
 
 If you have any questions, please contact us at: muyao@connect.hku.hk.
 
 &nbsp;
 &nbsp;
-### Invited Speakers/Panelists
+## Invited Speakers/Panelists
 &nbsp;
 
 <div class="grid">
@@ -151,7 +151,7 @@ If you have any questions, please contact us at: muyao@connect.hku.hk.
 &nbsp;
 
 
-### Organizers
+## Organizers
 &nbsp;
 
 
@@ -225,7 +225,7 @@ If you have any questions, please contact us at: muyao@connect.hku.hk.
 </div>
 
 <!-- 
-### Program Committee
+## Program Committee
 &nbsp;
 <div class="grid">
     <div class="gridcom-item">
