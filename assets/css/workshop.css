@@ -18,8 +18,8 @@ div.speaker p.speaker-bio {
 }
 
 .people-pic {
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 150px;
+  max-height: 150px;
   border-radius: 50%;
   padding: 0;
 }
@@ -35,8 +35,8 @@ div.speaker p.speaker-bio {
 }
 @media (max-width:1000px) {
     div.speaker img.people-pic {
-        max-width: 100px;
-        max-height: 100px;
+        max-width: 150px;
+        max-height: 150px;
     }
     .people-pic {
         max-width: 65px;
@@ -92,3 +92,99 @@ span.award-other img {
   padding-top: 0;
   padding-bottom: 8px;
 }
+
+.grid {
+  max-width: 1000px;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.grid-item {
+  min-width: 200px;
+  max-width: 200px;
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 200px;
+          flex: 1 1 200px;
+  padding-left: .5rem;
+  padding-right: .5rem;
+  margin-bottom: 1rem;
+}
+
+.grid-item figure {
+  padding: 0;
+  margin: 0;
+  /* box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.05); */
+}
+
+.grid-item figure img {
+  display: block;
+  max-width: 100%;
+}
+.grid-item figcaption {
+  display: block;
+  padding: .625rem .5rem;
+  /* background: #ffffff; */
+}
+
+.gridorg-item {
+  min-width: 160px;
+  max-width: 160px;
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 160px;
+          flex: 1 1 160px;
+  padding-left: .5rem;
+  padding-right: .5rem;
+  margin-bottom: 1rem;
+}
+
+.gridorg-item figure {
+  padding: 0;
+  margin: 0;
+  /* box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.05); */
+}
+
+.gridorg-item figure img {
+  display: block;
+  max-width: 100%;
+}
+.gridorg-item figcaption {
+  display: block;
+  padding: .625rem .5rem;
+  /* background: #ffffff; */
+}
+
+.gridcom-item {
+  min-width: 33%;
+  max-width: 33%;
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 33%;
+          flex: 1 1 33%;
+  padding-left: .5rem;
+  padding-right: .5rem;
+  margin-bottom: 1rem;
+}
+
+.gridcom-item figure {
+  padding: 0;
+  margin: 0;
+  /* box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.05); */
+}
+
+.gridcom-item figure img {
+  display: block;
+  max-width: 100%;
+}
+.gridcom-item figcaption {
+  display: block;
+  padding: .625rem .5rem;
+  /* background: #ffffff; */
+}
+
+
