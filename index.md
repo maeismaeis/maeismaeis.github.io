@@ -78,13 +78,13 @@ Robotic Policy Learning, Data Flywheel, Policy Generalization, Continuous Learni
 ### Important Dates
 
 1. **Paper Submission Deadline:** August 9th, 2024
-   - This allows three months before the workshop for review and preparations.
+
 
 2. **Notification of Acceptance:** September 9th, 2024
-   - Provides a month for reviews and decisions.
+
 
 3. **Camera-Ready Submission Deadline:** October 9th, 2024
-   - Allows one month for final revisions and to prepare the presentations.
+
 
 ### Important Notes
 
