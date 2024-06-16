@@ -235,6 +235,12 @@ If you have any questions, please contact us at: muyao@connect.hku.hk.
         <figcaption><b><a href="https://emigmo.github.io/">Chao Yang</a></b><br>Shanghai AI Laboratory</figcaption>
         </figure>
     </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets\img\organizers\zhixuan-liang.jpg" width="200"/>
+        <figcaption><b><a href="https://liang-zx.github.io/">Zhixuan Liang</a></b><br>The University of Hong Kong</figcaption>
+        </figure>
+    </div>
 </div>
 
 <!-- 
