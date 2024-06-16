@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: "Data-Driven Policy Learning Meets Scaling Law: Robot's New Era?"
+title: "CoRL Workshop 2024: Data-Driven Policy Learning Meets Scaling Law: Robot's New Era?"
 list_title: Home
 topic: "Data-Driven Policy Learning Meets Scaling Law: Robot's New Era?"
 layout: home
@@ -45,6 +45,7 @@ Robotic Policy Learning, Data Flywheel, Policy Generalization, Continuous Learni
 
 
 ## Call for Papers
+&nbsp;
 
 ### Submission Topics
 
@@ -73,7 +74,7 @@ Robotic Policy Learning, Data Flywheel, Policy Generalization, Continuous Learni
 - Visionary Predictions: Papers predicting future trends and identifying upcoming challenges in data-driven robotic policy learning.
 - Innovative Frameworks: Proposing new frameworks or models that could drive the next generation of robotic systems.
 
-
+&nbsp;
 
 ### Important Dates
 
@@ -85,6 +86,7 @@ Robotic Policy Learning, Data Flywheel, Policy Generalization, Continuous Learni
 
 3. **Camera-Ready Submission Deadline:** October 9th, 2024
 
+&nbsp;
 
 ### Important Notes
 
@@ -93,6 +95,7 @@ Please submit your full papers according to the following guidelines:
 - **Length:** Full papers should be a maximum of 8 pages.
 - **Submission Portal:** Submit your papers through Openreview System.
 
+&nbsp;
 
 ###  Contact
 
