@@ -25,8 +25,8 @@ This workshop aims to explore the innovative integration of data-driven flywheel
 
 This workshop will benefit the robot learning community by highlighting cutting-edge methodologies, fostering interdisciplinary discussions, and setting the stage for future collaborative research.
 
-<div style="text-align: center">
-    <img src="assets/img/banner.jpg">
+<div style="text-align: center;">
+    <img src="assets/img/main-graph.jpg" style="width: 50%">
 </div>
 
 
@@ -271,6 +271,8 @@ If you have any questions, please contact us at: muyao@connect.hku.hk.
 | 15:15-16:45   | Poster Sessions     |
 | 17:00-18:30   | Demonstrations and Closing Remarks |
 
+
+<!-- 
 <div style="height: 30px"></div>
 
 ###  Plans to Encourage Participation
@@ -326,5 +328,5 @@ We commit to attend the pre-conference organizers’ meeting with the CoRL 2024 
 ### Willingness to merge proposed events in case of overlapping topics
 &nbsp;
 
-We are open to merging our event with other high-quality proposals if they cover similar topics.
+We are open to merging our event with other high-quality proposals if they cover similar topics. -->
 
