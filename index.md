@@ -146,6 +146,12 @@ If you have any questions, please contact us at: muyao@connect.hku.hk.
         <figcaption><b><a href="https://oceanpang.github.io/">Jiangmiao Pang</a></b><br>Shanghai AI Lab, China</figcaption>
         </figure>
     </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets\img\speakers\haoshu-fang.jpg" width="200" />
+        <figcaption><b><a href="https://fang-haoshu.github.io/">HaoShu Fang</a></b><br>Massachusetts Institute of Technology, USA</figcaption>
+        </figure>
+    </div>
 </div>
 
 &nbsp;
