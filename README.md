@@ -1,3 +1,8 @@
+# CoRL Workshop 2024
+Topic: Data-Driven Policy Learning Meets Scaling Law: Robot's New Era?
+
+---
+
 # sniffle-workshop
 
 `sniffle` is an easy-to-use [Jekyll](https://jekyllrb.com/) theme, developed primarily for hosting workshop webpages in the AI / ML communities. `sniffle` automates many of the mundane tasks needed for workshop webpages, including:
