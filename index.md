@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: Home
+title: "Data-Driven Policy Learning Meets Scaling Law: Robot's New Era?"
 list_title: Home
 topic: "Data-Driven Policy Learning Meets Scaling Law: Robot's New Era?"
 layout: home
@@ -58,20 +58,20 @@ Robotic Policy Learning, Data Flywheel, Policy Generalization, Continuous Learni
 - Detailing the use of reinforcement and imitation learning strategies for effective physical control of robots, highlighting successes, challenges, and lessons learned.
 
 **Data Flywheel Mechanisms in Robotics:**
-- **Case Studies:** Demonstrating the impact of data flywheels on autonomous robotic systems.
-- **Novel Architectures:** Proposing new architectures for data accumulation and utilization in robotic learning.
+- Case Studies: Demonstrating the impact of data flywheels on autonomous robotic systems.
+- Novel Architectures: Proposing new architectures for data accumulation and utilization in robotic learning.
 
 **Continuous Learning in Robotics:**
-- **Techniques and Algorithms:** Papers detailing innovative algorithms and techniques for continuous learning in robots.
-- **Challenges and Solutions:** Discussing the main challenges in long-term deployment and solutions to maintain stability and performance.
+- Techniques and Algorithms: Papers detailing innovative algorithms and techniques for continuous learning in robots.
+- Challenges and Solutions: Discussing the main challenges in long-term deployment and solutions to maintain stability and performance.
 
 **Scalability of Data-Driven Approaches:**
-- **Cross-Environment Studies:** Examining the scalability of data-driven robotic systems across diverse environments.
-- **Comparative Analyses:** Comparing data-driven strategies in different scales of robotic applications, from small to large-scale systems.
+- Cross-Environment Studies: Examining the scalability of data-driven robotic systems across diverse environments.
+- Comparative Analyses: Comparing data-driven strategies in different scales of robotic applications, from small to large-scale systems.
 
 **Future Directions in Robotic Policy Learning:**
-- **Visionary Predictions:** Papers predicting future trends and identifying upcoming challenges in data-driven robotic policy learning.
-- **Innovative Frameworks:** Proposing new frameworks or models that could drive the next generation of robotic systems.
+- Visionary Predictions: Papers predicting future trends and identifying upcoming challenges in data-driven robotic policy learning.
+- Innovative Frameworks: Proposing new frameworks or models that could drive the next generation of robotic systems.
 
 
 
@@ -303,9 +303,8 @@ We will also feature interviews and articles on diverse robotics researchers on 
 
 <div style="height: 30px"></div>
 
-### Physical Resources
-&nbsp;
 
+<<<<<<< HEAD
 * Estimated audience size: 100-150 (in-person)
 * Resources: 10 poster boards, AV equipment for presentations, space for demonstrations
   
@@ -329,4 +328,6 @@ We commit to attend the pre-conference organizers’ meeting with the CoRL 2024 
 &nbsp;
 
 We are open to merging our event with other high-quality proposals if they cover similar topics. -->
+<!-- =======
+>>>>>>> 2098b020ee0334dbff13f540b71096aa6355e93b -->
 
