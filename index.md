@@ -109,8 +109,8 @@ If you have any questions, please contact us at: muyao@connect.hku.hk.
 <div class="grid">
     <div class="grid-item">
         <figure>
-        <img src="assets\img\organizers\Masayoshi-Tomizuka.jpg" width="200"/>
-        <figcaption><b><a href="https://scholar.google.com/citations?hl=en&user=8m8taGEAAAAJ">Masayoshi Tomizuka</a></b><br>The University of California, Berkeley</figcaption>
+        <img src="assets\img\organizers\Alois_Knoll.jpg" width="200"/>
+        <figcaption><b><a href="https://www.ce.cit.tum.de/en/air/people/prof-dr-ing-habil-alois-knoll/">Alois Knoll</a></b><br> Technical University of Munich</figcaption>
         </figure>
     </div>
     <div class="grid-item">
@@ -186,11 +186,10 @@ If you have any questions, please contact us at: muyao@connect.hku.hk.
 <div class="grid">
     <div class="grid-item">
         <figure>
-        <img src="assets\img\organizers\Alois_Knoll.jpg" width="200"/>
-        <figcaption><b><a href="https://www.ce.cit.tum.de/en/air/people/prof-dr-ing-habil-alois-knoll/">Alois Knoll</a></b><br> Technical University of Munich</figcaption>
+        <img src="assets\img\organizers\Masayoshi-Tomizuka.jpg" width="200"/>
+        <figcaption><b><a href="https://scholar.google.com/citations?hl=en&user=8m8taGEAAAAJ">Masayoshi Tomizuka</a></b><br>The University of California, Berkeley</figcaption>
         </figure>
     </div>
-    
     <div class="grid-item">
         <figure>
         <img src="assets\img\organizers\ping-luo.jpg" width="200"/>
