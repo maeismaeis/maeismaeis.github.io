@@ -16,12 +16,21 @@ layout: home
 <!-- <p style="text-align: center;"><font size="4">[<a href="">Youtube</a>] [<a href="https://discord.gg/yqjTtBmUJC">Discord</a>] [<a href="https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/WIHR">OpenReview</a>]</font></p> -->
 <!-- <p style="text-align: center;"><font size="4">Recording available at: <a href="">Youtube</a></font></p> -->
 
+This workshop aims to explore the innovative integration of data-driven flywheel mechanisms in robotic policy learning and will primarily discuss "**Data-Driven Policy Learning Meets Scaling Law: Robot's New Era?**".
 
-This workshop aims to explore the innovative integration of data-driven flywheel mechanisms in robotic policy learning and will primarily discuss "**Data-Driven Policy Learning Meets Scaling Law: Robot's New Era?**". As robotics systems increasingly perform complex, autonomous tasks, the ability to iteratively improve based on continuous data feedback becomes crucial. Key questions include:
+Robotic policy learning is about developing algorithms that enable robots to adapt their behavior through data-driven policies. This workshop tackles the challenge of the insufficient data available for training robotic foundation models, focusing on creating large-scale data collection systems to activate a data flywheel. Participants will explore the integration of these flywheel mechanisms in robotic policy learning, crucial for advancing robotic autonomy and complexity. The session promises vibrant discussions, case studies, and insights into practical challenges, highlighting innovative solutions that can transform robotic autonomy. This gathering promises to be a vibrant forum for exchanging pioneering ideas and driving significant advancements in the field. 
+
+The workshop will delve into the following pivotal research questions:
+* Implementation of Data Flywheels: How can data flywheel mechanisms be effectively implemented in autonomous robotic systems to enhance their learning and operational efficiency?
+* Challenges in Continuous Learning: What are the main challenges in integrating continuous learning mechanisms into robotic systems, and how can these be addressed to ensure seamless functionality?
+* Scaling Data-Driven Strategies: How can data-driven strategies be scaled effectively across diverse robotic applications, ensuring robustness and adaptability in various operational contexts?
+
+
+<!-- This workshop aims to explore the innovative integration of data-driven flywheel mechanisms in robotic policy learning and will primarily discuss "**Data-Driven Policy Learning Meets Scaling Law: Robot's New Era?**". As robotics systems increasingly perform complex, autonomous tasks, the ability to iteratively improve based on continuous data feedback becomes crucial. Key questions include:
 
 * How can data flywheels be effectively implemented in autonomous robotic systems?
 * What are the main challenges in integrating continuous learning mechanisms?
-* How can data-driven strategies be scaled across different robotic applications?
+* How can data-driven strategies be scaled across different robotic applications? -->
 
 This workshop will benefit the robot learning community by highlighting cutting-edge methodologies, fostering interdisciplinary discussions, and setting the stage for future collaborative research.
 
@@ -117,6 +126,12 @@ If you have any questions, please contact us at: muyao@connect.hku.hk.
         <figure>
         <img src="assets\img\organizers\Mac-Schwager.jpg" width="200"/>
         <figcaption><b><a href="http://web.stanford.edu/~schwager/">Mac Schwager</a></b><br>Stanford University</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets\img\speakers\shahram-eivazi.jpg" width="200"/>
+        <figcaption><b><a href="https://www.hci.uni-tuebingen.de/chair/team/shahram-eivazi">Shahram Eivazi</a></b><br>University of Tübingen</figcaption>
         </figure>
     </div>
     <div class="grid-item">
@@ -236,6 +251,36 @@ If you have any questions, please contact us at: muyao@connect.hku.hk.
         <figure>
         <img src="assets\img\organizers\qiaojun-yu.jpg" width="200"/>
         <figcaption><b><a href="https://scholar.google.com/citations?hl=en&user=hOxT8QUAAAAJ">Qiaojun Yu</a></b><br>Shanghai Jiaotong University</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets\img\organizers\hu_cao.jpg" width="200"/>
+        <figcaption><b><a href="https://hucaofighting.github.io/">Hu Cao</a></b><br>Technical University of Munich</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets\img\organizers\zipeng_fu.jpg" width="200"/>
+        <figcaption><b><a href="https://zipengfu.github.io/">Zipeng Fu</a></b><br>Stanford University</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets\img\organizers\yufei_wang.jpg" width="200"/>
+        <figcaption><b><a href="https://yufeiwang63.github.io/">Yufei Wang</a></b><br>Carnegie Mellon University</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets\img\organizers\yinglong-liu.jpg" width="200"/>
+        <figcaption><b><a href="https://scholar.google.com/citations?hl=en&user=qspzHRgAAAAJ&view_op=list_works&sortby=pubdate">Yinlong Liu</a></b><br>University of Macao</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets\img\organizers\ziyu_ye.jpg" width="200"/>
+        <figcaption><b><a href="https://hazelye-bot.github.io/">Ziyú Ye</a></b><br>The University of Chicago</figcaption>
         </figure>
     </div>
     <div class="grid-item">
