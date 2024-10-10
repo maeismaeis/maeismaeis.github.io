@@ -172,6 +172,8 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
         <figure>
         <img src="assets\img\speakers\gaohao-li.jpg" width="200" />
         <figcaption><b><a href="http://ghli.org/">Guohao Li
+</a></b><br>Camel-AI</figcaption>
+        </figure>
     </div>
     <div class="grid-item">
         <figure>
@@ -234,6 +236,12 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
 <div class="grid">
     <div class="grid-item">
         <figure>
+        <img src="assets\img\organizers\Danica_Kragic.jpg" width="200"/>
+        <figcaption><b><a href="https://www.csc.kth.se/~danik/">Danica Kragic</a></b><br>Royal Institute of Technology (KTH)</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
         <img src="assets\img\organizers\Masayoshi-Tomizuka.jpg" width="200"/>
         <figcaption><b><a href="https://scholar.google.com/citations?hl=en&user=8m8taGEAAAAJ">Masayoshi Tomizuka</a></b><br>The University of California, Berkeley</figcaption>
         </figure>
@@ -248,12 +256,6 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
         <figure>
         <img src="assets\img\organizers\fan-shi.jpg" width="200"/>
         <figcaption><b><a href="https://fanshi14.github.io/me/">Fan Shi</a></b><br>National University of Singapore</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets\img\organizers\si-liu.jpg" width="200"/>
-        <figcaption><b><a href="https://scholar.google.com/citations?hl=en&user=-QtVtNEAAAAJ">Si Liu</a></b><br>Beihang University</figcaption>
         </figure>
     </div>
     <div class="grid-item">
