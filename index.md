@@ -165,7 +165,7 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
     <div class="grid-item">
         <figure>
         <img src="assets\img\speakers\tingnan-zhang.jpg" width="200" />
-        <figcaption><b><a href="https://ai.google/research/people/TingnanZhang">Tingnan Zhang</a></b><br>Google DeepMind</figcaption>
+        <figcaption><b><a href="https://research.google/people/tingnanzhang/?&type=google">Tingnan Zhang</a></b><br>Google DeepMind</figcaption>
         </figure>
     </div>
     <div class="grid-item">
