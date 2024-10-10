@@ -187,7 +187,7 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
         <figcaption><b><a href="https://lihongyang.info/">Hongyang Li</a></b><br>University of Hong Kong, China</figcaption>
         </figure>
     </div>
-    
+</div>    
 
 
 &nbsp;
