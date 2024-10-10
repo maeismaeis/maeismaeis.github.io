@@ -242,8 +242,8 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets\img\organizers\Masayoshi-Tomizuka.jpg" width="200"/>
-        <figcaption><b><a href="https://scholar.google.com/citations?hl=en&user=8m8taGEAAAAJ">Masayoshi Tomizuka</a></b><br>The University of California, Berkeley</figcaption>
+        <img src="assets\img\organizers\shanghang_zhang.jpg" width="200"/>
+        <figcaption><b><a href="https://www.shanghangzhang.com/">Shanghang Zhang</a></b><br>Peking University </figcaption>
         </figure>
     </div>
     <div class="grid-item">
@@ -258,10 +258,40 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
         <figcaption><b><a href="https://fanshi14.github.io/me/">Fan Shi</a></b><br>National University of Singapore</figcaption>
         </figure>
     </div>
+        <div class="grid-item">
+        <figure>
+        <img src="assets\img\organizers\hu_cao.jpg" width="200"/>
+        <figcaption><b><a href="https://hucaofighting.github.io/">Hu Cao</a></b><br>Technical University of Munich</figcaption>
+        </figure>
+    </div>
     <div class="grid-item">
         <figure>
         <img src="assets\img\organizers\mingyu-ding.jpg" width="200"/>
         <figcaption><b><a href="https://dingmyu.github.io/">Mingyu Ding</a></b><br>The University of California Berkeley</figcaption>
+        </figure>
+    </div>
+        <div class="grid-item">
+        <figure>
+        <img src="assets\img\organizers\wenzhao_zheng.jpg" width="200"/>
+        <figcaption><b><a href="https://wzzheng.net/">Wenzhao Zheng</a></b><br>UC Berkeley</figcaption>
+        </figure>
+    </div>
+        <div class="grid-item">
+        <figure>
+        <img src="assets\img\organizers\zipeng_fu.jpg" width="200"/>
+        <figcaption><b><a href="https://zipengfu.github.io/">Zipeng Fu</a></b><br>Stanford University</figcaption>
+        </figure>
+    </div>
+        <div class="grid-item">
+        <figure>
+        <img src="assets\img\organizers\jiankai-sun.jpg" width="200"/>
+        <figcaption><b><a href="http://web.stanford.edu/~jksun/">Jiankai Sun</a></b><br>Stanford University</figcaption>
+        </figure>
+    </div>
+        <div class="grid-item">
+        <figure>
+        <img src="assets\img\organizers\yufei_wang.jpg" width="200"/>
+        <figcaption><b><a href="https://yufeiwang63.github.io/">Yufei Wang</a></b><br>Carnegie Mellon University</figcaption>
         </figure>
     </div>
     <div class="grid-item">
@@ -270,42 +300,19 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
         <figcaption><b><a href="https://yaomarkmu.github.io/">Yao Mu</a></b><br>Then University of Hong Kong</figcaption>
         </figure>
     </div>
+        <div class="grid-item">
+        <figure>
+        <img src="assets\img\organizers\lening_wang.jpg" width="200"/>
+        <figcaption><b><a href="https://scholar.google.com/citations?hl=en&user=hOxT8QUAAAAJ">Qiaojun Yu</a></b><br>Shanghai Jiaotong University</figcaption>
+        </figure>
+    </div>
     <div class="grid-item">
         <figure>
         <img src="assets\img\organizers\haibao-yu.jpg" width="200"/>
         <figcaption><b><a href="https://scholar.google.com/citations?user=JW4F5HoAAAAJ&hl=en&oi=ao">Haibao Yu</a></b><br>Then University of Hong Kong</figcaption>
         </figure>
     </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets\img\organizers\jiankai-sun.jpg" width="200"/>
-        <figcaption><b><a href="http://web.stanford.edu/~jksun/">Jiankai Sun</a></b><br>Stanford University</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets\img\organizers\qiaojun-yu.jpg" width="200"/>
-        <figcaption><b><a href="https://scholar.google.com/citations?hl=en&user=hOxT8QUAAAAJ">Qiaojun Yu</a></b><br>Shanghai Jiaotong University</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets\img\organizers\hu_cao.jpg" width="200"/>
-        <figcaption><b><a href="https://hucaofighting.github.io/">Hu Cao</a></b><br>Technical University of Munich</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets\img\organizers\zipeng_fu.jpg" width="200"/>
-        <figcaption><b><a href="https://zipengfu.github.io/">Zipeng Fu</a></b><br>Stanford University</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets\img\organizers\yufei_wang.jpg" width="200"/>
-        <figcaption><b><a href="https://yufeiwang63.github.io/">Yufei Wang</a></b><br>Carnegie Mellon University</figcaption>
-        </figure>
-    </div>
+
     <div class="grid-item">
         <figure>
         <img src="assets\img\organizers\yinglong-liu.jpg" width="200"/>
