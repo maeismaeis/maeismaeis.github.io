@@ -277,30 +277,7 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
         </figure>
     </div>
 
-    <div class="grid-item">
-        <figure>
-        <img src="assets\img\organizers\yinglong-liu.jpg" width="200"/>
-        <figcaption><b><a href="https://scholar.google.com/citations?hl=en&user=qspzHRgAAAAJ&view_op=list_works&sortby=pubdate">Yinlong Liu</a></b><br>University of Macao</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets\img\organizers\ziyu_ye.jpg" width="200"/>
-        <figcaption><b><a href="https://hazelye-bot.github.io/">Ziyú Ye</a></b><br>The University of Chicago</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets\img\organizers\chao-yang.jpg" width="200"/>
-        <figcaption><b><a href="https://emigmo.github.io/">Chao Yang</a></b><br>Shanghai AI Laboratory</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets\img\organizers\zhixuan-liang.jpg" width="200"/>
-        <figcaption><b><a href="https://liang-zx.github.io/">Zhixuan Liang</a></b><br>The University of Hong Kong</figcaption>
-        </figure>
-    </div>
+    
 </div>
 
 <!-- 
