@@ -3,20 +3,20 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: "CoRL Workshop 2024: Data-Driven Policy Learning Meets Scaling Law: Robot's New Era?"
+title: "ICRA Workshop 2025: Multi-Agent Embodied Intelligent Systems Meet Foundation Models and Large-scale Datasets: Challenges and Future"
 list_title: Home
-topic: "Data-Driven Policy Learning Meets Scaling Law: Robot's New Era?"
+topic: "Multi-Agent Embodied Intelligent Systems Meet Foundation Models and Large-scale Datasets: Challenges and Future"
 layout: home
 ---
 
-<p style="text-align: center;"><font size="5"><a href="https://www.corl.org/">2024 Conference on Robot Learning in Munich, Germany</a>
+<p style="text-align: center;"><font size="5"><a href="https://2025.ieee-icra.org/">2025 IEEE International Conference on Robotics & Automation, USA</a>
 </font></p>
-<p style="text-align: center;"><font size="5">November 9th, 2024</font></p>
+<p style="text-align: center;"><font size="5">May 19th, 2025</font></p>
 <!-- <p style="text-align: center;"><font size="5">Location: Sequoia 1</font></p> -->
 <!-- <p style="text-align: center;"><font size="4">[<a href="">Youtube</a>] [<a href="https://discord.gg/yqjTtBmUJC">Discord</a>] [<a href="https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/WIHR">OpenReview</a>]</font></p> -->
 <!-- <p style="text-align: center;"><font size="4">Recording available at: <a href="">Youtube</a></font></p> -->
 
-This workshop aims to explore the innovative integration of data-driven flywheel mechanisms in robotic policy learning and will primarily discuss "**Data-Driven Policy Learning Meets Scaling Law: Robot's New Era?**".
+This workshop aims to explore the innovative integration of "**Multi-Agent Embodied Intelligent Systems Meet Foundation Models and Large-scale Datasets: Challenges and Futur**".
 
 Robotic policy learning is about developing algorithms that enable robots to adapt their behavior through data-driven policies. This workshop tackles the challenge of the insufficient data available for training robotic foundation models, focusing on creating large-scale data collection systems to activate a data flywheel. Participants will explore the integration of these flywheel mechanisms in robotic policy learning, crucial for advancing robotic autonomy and complexity. The session promises vibrant discussions, case studies, and insights into practical challenges, highlighting innovative solutions that can transform robotic autonomy. This gathering promises to be a vibrant forum for exchanging pioneering ideas and driving significant advancements in the field. 
 
