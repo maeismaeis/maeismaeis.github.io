@@ -144,22 +144,34 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets\img\organizers\Mac-Schwager.jpg" width="200"/>
-        <figcaption><b><a href="http://web.stanford.edu/~schwager/">Mac Schwager</a></b><br>Stanford University</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
         <img src="assets\img\speakers\shahram-eivazi.jpg" width="200"/>
         <figcaption><b><a href="https://www.hci.uni-tuebingen.de/chair/team/shahram-eivazi">Shahram Eivazi</a></b><br>University of Tübingen</figcaption>
         </figure>
     </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets\img\organizers\Mac-Schwager.jpg" width="200"/>
+        <figcaption><b><a href="http://web.stanford.edu/~schwager/">Mac Schwager</a></b><br>Stanford University</figcaption>
+        </figure>
+    </div>
+    
    
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/lin-shao.jpg" width="200" /> 
         <figcaption><b><a href="https://linsats.github.io/">Lin Shao</a></b><br>National University of Singapore, Singapore</figcaption>
         </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets\img\speakers\tingnan-zhang.jpg" width="200" />
+        <figcaption><b><a href="https://ai.google/research/people/TingnanZhang">Tingnan Zhang</a></b><br>Google DeepMind</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets\img\speakers\gaohao-li.jpg" width="200" />
+        <figcaption><b><a href="http://ghli.org/">Guohao Li
     </div>
     <div class="grid-item">
         <figure>
