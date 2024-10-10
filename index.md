@@ -121,7 +121,7 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
     <div class="grid-item">
         <figure>
         <img src="assets\img\speakers\Sergey_Levine.jpg" width="200"/>
-        <figcaption><b><a href="https://people.eecs.berkeley.edu/~svlevine/index.htm">Sergey Levine</a></b><br>UC Berkeley</figcaption>
+        <figcaption><b><a href="https://people.eecs.berkeley.edu/~svlevine/index.htm">Sergey Levine</a></b><br>The University of California Berkeley</figcaption>
         </figure>
     </div>
     <div class="grid-item">
@@ -231,13 +231,13 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
     <div class="grid-item">
         <figure>
         <img src="assets\img\organizers\mingyu-ding.jpg" width="200"/>
-        <figcaption><b><a href="https://dingmyu.github.io/">Mingyu Ding</a></b><br>The University of California Berkeley</figcaption>
+        <figcaption><b><a href="https://dingmyu.github.io/">Mingyu Ding</a></b><br>The University of North Carolina at Chapel Hill</figcaption>
         </figure>
     </div>
         <div class="grid-item">
         <figure>
         <img src="assets\img\organizers\wenzhao_zheng.jpg" width="200"/>
-        <figcaption><b><a href="https://wzzheng.net/">Wenzhao Zheng</a></b><br>UC Berkeley</figcaption>
+        <figcaption><b><a href="https://wzzheng.net/">Wenzhao Zheng</a></b><br>The University of California Berkeley</figcaption>
         </figure>
     </div>
         <div class="grid-item">
