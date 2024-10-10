@@ -303,7 +303,7 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
         <div class="grid-item">
         <figure>
         <img src="assets\img\organizers\lening_wang.jpg" width="200"/>
-        <figcaption><b><a href="https://scholar.google.com/citations?hl=en&user=hOxT8QUAAAAJ">Qiaojun Yu</a></b><br>Shanghai Jiaotong University</figcaption>
+        <figcaption><b><a href="https://scholar.google.com/citations?user=obCtm2UAAAAJ&hl=en&oi=ao">Lening Wang</a></b><br>Peking University</figcaption>
         </figure>
     </div>
     <div class="grid-item">
