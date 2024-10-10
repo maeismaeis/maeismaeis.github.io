@@ -120,7 +120,7 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
 <div class="grid">
     <div class="grid-item">
         <figure>
-        <img src="assets\img\organizers\Sergey_Levine.jpg" width="200"/>
+        <img src="assets\img\speakers\Sergey_Levine.jpg" width="200"/>
         <figcaption><b><a href="https://people.eecs.berkeley.edu/~svlevine/index.htm">Sergey Levine</a></b><br>UC Berkeley</figcaption>
         </figure>
     </div>
@@ -139,7 +139,7 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
      <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/jiaqi_ma.jpg" width="200"/>
-        <figcaption><b><a href="https://mobility-lab.seas.ucla.edu/about/">Hao Su</a></b><br>University of California Los Angeles, USA</figcaption>
+        <figcaption><b><a href="https://mobility-lab.seas.ucla.edu/about/">Jiaqi Ma</a></b><br>University of California Los Angeles, USA</figcaption>
         </figure>
     </div>
     <div class="grid-item">
@@ -175,8 +175,14 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/jianyu-chen.jpg" width="200" />
-        <figcaption><b><a href="http://people.iiis.tsinghua.edu.cn/~jychen/">Jianyu Chen</a></b><br>Tsinghua University, China</figcaption>
+        <img src="assets\img\speakers\yang-you.jpg" width="200" />
+        <figcaption><b><a href="https://qq456cvb.github.io/">Yang You</a></b><br>Stanford University, USA</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets/img/speakers/hongyang_li.jpg" width="200" />
+        <figcaption><b><a href="https://lihongyang.info/">Hongyang Li</a></b><br>University of Hong Kong, China</figcaption>
         </figure>
     </div>
     <div class="grid-item">
