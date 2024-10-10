@@ -120,7 +120,7 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
 <div class="grid">
     <div class="grid-item">
         <figure>
-        <img src="assets\img\organizers\Sergey Levine.jpg" width="200"/>
+        <img src="assets\img\organizers\Sergey_Levine.jpg" width="200"/>
         <figcaption><b><a href="https://people.eecs.berkeley.edu/~svlevine/index.htm">Sergey Levine</a></b><br>UC Berkeley</figcaption>
         </figure>
     </div>
@@ -128,6 +128,18 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
         <figure>
         <img src="assets\img\organizers\Alois_Knoll.jpg" width="200"/>
         <figcaption><b><a href="https://www.ce.cit.tum.de/en/air/people/prof-dr-ing-habil-alois-knoll/">Alois Knoll</a></b><br>Technical University of Munich</figcaption>
+        </figure>
+    </div>
+     <div class="grid-item">
+        <figure>
+        <img src="assets/img/speakers/hao_su.jpg" width="200"/>
+        <figcaption><b><a href="https://haosu-robotics.github.io/">Hao Su</a></b><br>North Carolina State University, USA</figcaption>
+        </figure>
+    </div>
+     <div class="grid-item">
+        <figure>
+        <img src="assets/img/speakers/jiaqi_ma.jpg" width="200"/>
+        <figcaption><b><a href="https://mobility-lab.seas.ucla.edu/about/">Hao Su</a></b><br>University of California Los Angeles, USA</figcaption>
         </figure>
     </div>
     <div class="grid-item">
@@ -142,12 +154,7 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
         <figcaption><b><a href="https://www.hci.uni-tuebingen.de/chair/team/shahram-eivazi">Shahram Eivazi</a></b><br>University of Tübingen</figcaption>
         </figure>
     </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets/img/speakers/hao_su.jpg" width="200"/>
-        <figcaption><b><a href="https://haosu-robotics.github.io/">Hao Su</a></b><br>North Carolina State University, USA</figcaption>
-        </figure>
-    </div>
+   
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/lin-shao.jpg" width="200" /> 
