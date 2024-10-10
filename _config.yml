@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CoRL 2024 Workshop
-email: muyao@connect.hku.hk
+title: ICRA 2025 Workshop
+email: leningwang@buaa.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  CoRL Workshop 2024: Data-Driven Policy Learning Meets Scaling Law: Robot's New Era?
+  ICRA 2025 Workshop: Multi-Agent Embodied Intelligent Systems Meet Foundation Models and Largescale Datasets: Challenges and Future
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: roboflywheel
-github_username:  roboflywheel
+twitter_username: maeismaeis
+github_username:  maeismaeis
 
 # Build settings
 plugins:

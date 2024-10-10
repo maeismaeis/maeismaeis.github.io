@@ -1,5 +1,5 @@
-# CoRL Workshop 2024
-Topic: Data-Driven Policy Learning Meets Scaling Law: Robot's New Era?
+# ICRA Workshop 2025
+Topic: Multi-Agent Embodied Intelligent Systems Meet Foundation Models and Largescale Datasets: Challenges and Future
 
 ---
 
