@@ -187,44 +187,8 @@ If you have any questions, please contact us at: leningwang@buaa.edu.cn.
         <figcaption><b><a href="https://lihongyang.info/">Hongyang Li</a></b><br>University of Hong Kong, China</figcaption>
         </figure>
     </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets\img\speakers\huazhe-xu.jpg" width="200" />
-        <figcaption><b><a href="http://hxu.rocks/">Huazhe Xu</a></b><br>Tsinghua University, China</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets\img\speakers\gaohao-li.jpg" width="200" />
-        <figcaption><b><a href="http://ghli.org/">Guohao Li
-</a></b><br>Camel-AI</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets\img\speakers\yang-you.jpg" width="200" />
-        <figcaption><b><a href="https://qq456cvb.github.io/">Yang You</a></b><br>Stanford University, USA</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets\img\speakers\tingnan-zhang.jpg" width="200" />
-        <figcaption><b><a href="https://ai.google/research/people/TingnanZhang">Tingnan Zhang</a></b><br>Google DeepMind</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets\img\speakers\jiangmiao-pang.jpg" width="200" />
-        <figcaption><b><a href="https://oceanpang.github.io/">Jiangmiao Pang</a></b><br>Shanghai AI Lab, China</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets\img\speakers\haoshu-fang.jpg" width="200" />
-        <figcaption><b><a href="https://fang-haoshu.github.io/">HaoShu Fang</a></b><br>Massachusetts Institute of Technology, USA</figcaption>
-        </figure>
-    </div>
-</div>
+    
+
 
 &nbsp;
 
