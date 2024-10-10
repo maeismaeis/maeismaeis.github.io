@@ -18,12 +18,14 @@ layout: home
 
 This workshop aims to explore the innovative integration of "**Multi-Agent Embodied Intelligent Systems Meet Foundation Models and Large-scale Datasets: Challenges and Futur**".
 
-Robotic policy learning is about developing algorithms that enable robots to adapt their behavior through data-driven policies. This workshop tackles the challenge of the insufficient data available for training robotic foundation models, focusing on creating large-scale data collection systems to activate a data flywheel. Participants will explore the integration of these flywheel mechanisms in robotic policy learning, crucial for advancing robotic autonomy and complexity. The session promises vibrant discussions, case studies, and insights into practical challenges, highlighting innovative solutions that can transform robotic autonomy. This gathering promises to be a vibrant forum for exchanging pioneering ideas and driving significant advancements in the field. 
+This workshop focuses on the intersection of multi-agent embodied intelligent systems, foundation models, and large-scale datasets, tackling the core challenges and future research directions in this domain. Embodied intelligent systems, which are agents capable of learning and making decisions through interactions with their physical environment, are crucial for advancing autonomy in robotics and AI. The integration of foundation models into these systems offers the potential to significantly enhance their ability to generalize across tasks, environments, and agents. However, this raises key challenges, particularly in the context of multi-agent systems where collaborative behaviors and real-world adaptability are essential. A major focus of the workshop will be the development of large-scale datasets tailored for embodied intelligence, as current datasets often lack the richness needed for robust training in complex environments. The workshop will explore how to leverage foundation models and large-scale data to improve the decision-making, adaptability, and scalability of embodied multi-agent systems. Through case studies, technical presentations, and discussions, the workshop aims to address current limitations and set the stage for future advancements in the field.
+
 
 The workshop will delve into the following pivotal research questions:
-* Implementation of Data Flywheels: How can data flywheel mechanisms be effectively implemented in autonomous robotic systems to enhance their learning and operational efficiency?
-* Challenges in Continuous Learning: What are the main challenges in integrating continuous learning mechanisms into robotic systems, and how can these be addressed to ensure seamless functionality?
-* Scaling Data-Driven Strategies: How can data-driven strategies be scaled effectively across diverse robotic applications, ensuring robustness and adaptability in various operational contexts?
+* Foundation Models for Embodied Intelligence: How can foundation models, traditionally trained on static or disembodied data, be adapted for embodied intelligent systems, where physical interaction with the environment is critical for learning and decision-making?
+* Challenges in Multi-Agent Embodied Systems: What are the unique challenges in coordinating multiple embodied intelligent agents, and how can large-scale datasets and foundation models support better collaboration, communication, and adaptability in multi-agent environments?
+* Large-Scale Dataset Creation and Utilization: What methods can be employed to create and curate large-scale datasets that capture the complexity and variability required for embodied intelligent systems, ensuring robustness in real-world applications?
+* Scalability of Embodied Multi-Agent Systems: What strategies can be implemented to scale embodied intelligent systems and foundation models across diverse tasks and environments, while ensuring performance, safety, and generalization in real-world applications?
 
 
 <!-- This workshop aims to explore the innovative integration of data-driven flywheel mechanisms in robotic policy learning and will primarily discuss "**Data-Driven Policy Learning Meets Scaling Law: Robot's New Era?**". As robotics systems increasingly perform complex, autonomous tasks, the ability to iteratively improve based on continuous data feedback becomes crucial. Key questions include:
@@ -87,28 +89,28 @@ Robotic Policy Learning, Data Flywheel, Policy Generalization, Continuous Learni
 
 ### Important Dates
 
-1. **Paper Submission Deadline:** August 9th, 2024
+1. **Paper Submission Deadline:** January 28th, 2025
 
 
-2. **Notification of Acceptance:** September 9th, 2024
+2. **Notification of Acceptance:** February 25th, 2025
 
 
-3. **Camera-Ready Submission Deadline:** October 9th, 2024
+3. **Camera-Ready Submission Deadline:** March 9th, 2025
 
 &nbsp;
 
 ### Important Notes
 
 Please submit your full papers according to the following guidelines:
-- **Format:** All papers must be formatted according to CORL template.
-- **Length:** Full papers should be a maximum of 8 pages.
+- **Format:** All papers must be formatted according to ICRA template.
+- **Length:** Full papers should be a maximum of 6 pages.
 - **Submission Portal:** Submit your papers through Openreview System.
 
 &nbsp;
 
 ###  Contact
 
-If you have any questions, please contact us at: muyao@connect.hku.hk.
+If you have any questions, please contact us at: leningwang@buaa.edu.cn.
 
 &nbsp;
 &nbsp;
@@ -116,6 +118,12 @@ If you have any questions, please contact us at: muyao@connect.hku.hk.
 &nbsp;
 
 <div class="grid">
+    <div class="grid-item">
+        <figure>
+        <img src="assets\img\organizers\Sergey Levine.jpg" width="200"/>
+        <figcaption><b><a href="https://people.eecs.berkeley.edu/~svlevine/index.htm">Sergey Levine</a></b><br>UC Berkeley</figcaption>
+        </figure>
+    </div>
     <div class="grid-item">
         <figure>
         <img src="assets\img\organizers\Alois_Knoll.jpg" width="200"/>
