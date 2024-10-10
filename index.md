@@ -45,7 +45,7 @@ This workshop will benefit the robot learning community by highlighting cutting-
 
 **Keywords specific to the event**
 
-Robotic Policy Learning, Data Flywheel, Policy Generalization, Continuous Learning
+Multi-Agent, Embodied Intelligent, Foundation Models, Policy Generalization, Continuous Learning, Robotic Policy Learning, Data Flywheel, Policy Generalization, Continuous Learning
 
 
 
